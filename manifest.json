@@ -1,0 +1,11 @@
+{
+  "id": "vocabulary",
+  "name": "Vocabulary",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Vokabeltrainer: Lade eine Vokabeldatei aus deinem Vault und werde interaktiv abgefragt (wählbar nach Richtung)",
+  "author": "Valenx",
+  "authorUrl": "https://github.com/vaIenx",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}
